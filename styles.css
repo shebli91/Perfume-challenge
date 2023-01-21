@@ -1,3 +1,11 @@
+body {
+  margin: 0;
+}
+
 .container {
   display: flex;
+  background-color: #f9f9f9;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px #ccc;
+  margin: 10px;
 }
